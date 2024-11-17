@@ -1,2 +1,1 @@
-# zillow-scraper
-A repository for scraping Zillow data for Los Angeles
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
